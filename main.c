@@ -1,5 +1,5 @@
 /* USER CODE BEGIN Header */
-/**
+/**Wired on a breadboard
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
