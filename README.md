@@ -3,6 +3,7 @@ Using STM32 Nucleo board and L298B H-bridge driver to control one DC motor
 
 H-bridge driver L298 Datasheet
 https://www.st.com/resource/en/datasheet/l293b.pdf
+https://www.handsontec.com/dataspecs/module/BTS7960%20Motor%20Driver.pdf
 
 Control Blog posts
 1. https://m.blog.naver.com/oh981008/222572762152
