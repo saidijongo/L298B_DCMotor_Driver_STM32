@@ -9,6 +9,7 @@ Control Blog posts
 1. https://m.blog.naver.com/oh981008/222572762152
 2. https://www.micropeta.com/video20
 3. https://aleksandarhaber.com/control-dc-motors-by-using-stm32-microcontrollers-smt32-microcontroller-tutorial/
+4. http://www.icj-e.org/download/ICJE-6-7-62-67.pdf
 
 
 
