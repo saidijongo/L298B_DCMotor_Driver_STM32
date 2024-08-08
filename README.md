@@ -27,6 +27,7 @@ https://aleksandarhaber.com/control-dc-motors-by-using-stm32-microcontrollers-sm
 STM32 LED
 <img width="841" alt="image" src="https://github.com/user-attachments/assets/57dba3b4-a7e7-44b4-8035-d21870777cb9">
 
+https://d1wqtxts1xzle7.cloudfront.net/40530150/Development_of_a_BLDC_motor_drive_with_i20151201-3878-htaq2o-libre.pdf?1448960871=&response-content-disposition=inline%3B+filename%3DDevelopment_of_a_BLDC_motor_drive_with_i.pdf&Expires=1723101707&Signature=eqWqlWxkSu99h~enSBwS97zrQz1M1WYlN4rgDr0g8UfsP4hcwSIAoY9ZnoRoC0HDzU0g20u09cfxlpE8vFOox~cFw3u9IK5tgnaUVlWJYUs6oSHLjFaACxHdwlDKtjhxy17oYNWUl~qiQjqoF7Ncy9CPlI1Au1dIGDGZauUQhCamlZKINAuOii~oEghKIZOPscToIdtFoFEKMhr0z8oUjeYEIwwI2Uv-GUo-mWsgJAtnQpKVihJQMuPBxGhQZWQNSQkA4zgkIsSZUaJH4RMSCGtsSJ16zOVVJ3A3q1TsV-Fzm-ErGjOly0jvY5KDxgz9O1dWUuuEEVoTqzsmvECmiQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 <img width="321" alt="image" src="https://github.com/user-attachments/assets/3c53b21d-0cf9-40c7-bc48-e9e921e43914">
 
 
