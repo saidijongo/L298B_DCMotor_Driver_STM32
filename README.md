@@ -27,5 +27,8 @@ https://aleksandarhaber.com/control-dc-motors-by-using-stm32-microcontrollers-sm
 STM32 LED
 <img width="841" alt="image" src="https://github.com/user-attachments/assets/57dba3b4-a7e7-44b4-8035-d21870777cb9">
 
+<img width="321" alt="image" src="https://github.com/user-attachments/assets/3c53b21d-0cf9-40c7-bc48-e9e921e43914">
+
+
 
 
