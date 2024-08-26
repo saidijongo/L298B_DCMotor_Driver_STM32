@@ -33,6 +33,8 @@ https://www.scirp.org/journal/paperinformation?paperid=77007
 
 Current sensor
 https://www.handsontec.com/dataspecs/ACS712-Current%20Sensor.pdf
+ Controller design notes
+https://drive.google.com/file/d/1bCeK0jI1vsmUMv2q6HCwHgIB_7ZzQ8f3/view?usp=sharing
 
 https://electronoobs.com/eng_arduino_tut126_sch1.php
 https://electronoobs.com/eng_arduino_tut126_code1.php
