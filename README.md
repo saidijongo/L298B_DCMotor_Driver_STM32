@@ -31,6 +31,11 @@ https://d1wqtxts1xzle7.cloudfront.net/40530150/Development_of_a_BLDC_motor_drive
 https://www.scirp.org/journal/paperinformation?paperid=77007
 <img width="321" alt="image" src="https://github.com/user-attachments/assets/3c53b21d-0cf9-40c7-bc48-e9e921e43914">
 
+https://electronoobs.com/eng_arduino_tut126_sch1.php
+https://electronoobs.com/eng_arduino_tut126_code1.php
+![image](https://github.com/user-attachments/assets/7fc9156c-77e1-444e-9201-e2a462dcf88a)
+
+
 
 
 
