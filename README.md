@@ -44,6 +44,9 @@ https://electronoobs.com/eng_arduino_tut126_code1.php
 stm32 & esp32 WIFI
 https://www.edaboard.com/threads/stm32f103c8t6-upload-a-code-for-using-ota-methodology.408166/
 
+mISC PROJ
+https://github.com/joewa/bldc-strip/tree/master
+
 
 
 
