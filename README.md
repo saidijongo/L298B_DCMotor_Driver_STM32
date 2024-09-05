@@ -41,6 +41,10 @@ https://electronoobs.com/eng_arduino_tut126_code1.php
 ![image](https://github.com/user-attachments/assets/7fc9156c-77e1-444e-9201-e2a462dcf88a)
 
 
+stm32 & esp32 WIFI
+https://www.edaboard.com/threads/stm32f103c8t6-upload-a-code-for-using-ota-methodology.408166/
+
+
 
 
 
