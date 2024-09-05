@@ -46,6 +46,7 @@ https://www.edaboard.com/threads/stm32f103c8t6-upload-a-code-for-using-ota-metho
 
 mISC PROJ
 https://github.com/joewa/bldc-strip/tree/master
+https://docs.simplefoc.com/drv8302_example
 
 
 
